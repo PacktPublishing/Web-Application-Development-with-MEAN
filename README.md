@@ -45,7 +45,7 @@ Module 3
 ##What you need for this learning path
 
 ###Module 1: 
-This book is suitable for beginner and intermediate web developers with basic 
+This module is suitable for beginner and intermediate web developers with basic 
 knowledge in HTML, CSS, and modern JavaScript development.
 
 ###Module 2: 

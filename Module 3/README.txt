@@ -1,0 +1,1 @@
+You will require any modern web browser (such as Chrome's latest version or IE 10+), the Node.js platform installed on your machine, and version 3.2 or higher of MongoDB. Optionally, you can install any web server, such as Nginx, Apache, IIS, or lighttpd, to proxy requests to your Node.js application.

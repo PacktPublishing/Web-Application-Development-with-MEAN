@@ -63,3 +63,7 @@ You will require any modern web browser (such as Chrome's latest version or IE 1
 the Node.js platform installed on your machine, and version 3.2 or higher of MongoDB.
 Optionally, you can install any web server, such as Nginx, Apache, IIS,  
 or lighttpd, to proxy requests to your Node.js application.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787121720">https://packt.link/free-ebook/9781787121720 </a> </p>
